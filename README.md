@@ -38,7 +38,7 @@ Para obter uma cópia local funcionando, siga estes passos simples.
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/alexprado2/CashFlow.git
+    gh repo clone alexprado2/CashFlow
     ```
 
 2. Preencha as informações no arquivo `appsettings.Development.json`.
